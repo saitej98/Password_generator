@@ -1,3 +1,13 @@
+Password Generator Build with ReactApp
+Installation on localhost :
+npm install
+npm start
+
+Build Command : npm run build or yarn build
+
+You can check out the application here https://password-generator-gamma-khaki.vercel.app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
